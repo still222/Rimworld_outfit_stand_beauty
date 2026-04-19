@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\stk_outfit_stand_beauty\Assemblies\StkOutfitStand.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\stk_outfit_stand_beauty\Source\StkOutfitStand\obj\Debug\StkOutfitStand.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\stk_outfit_stand_beauty\Source\StkOutfitStand\obj\Debug\StkOutfitStand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\stk_outfit_stand_beauty\Source\StkOutfitStand\obj\Debug\StkOutfitStand.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\stk_outfit_stand_beauty\Source\StkOutfitStand\obj\Debug\StkOutfitStand.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\stk_outfit_stand_beauty\Source\StkOutfitStand\obj\Debug\StkOutfitStand.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\stk_outfit_stand_beauty\Source\StkOutfitStand\obj\Debug\StkOutfitStand.dll
